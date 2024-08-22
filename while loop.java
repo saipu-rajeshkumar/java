@@ -1,5 +1,5 @@
 import java.io.*;
-public class whiledemo
+public class Whiledemo
 {
     public static void main(String args[])
     {
