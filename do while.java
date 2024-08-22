@@ -1,5 +1,5 @@
 import java.io.*;
-class dowhiledem0
+class dowhiledemo
 {
     public static void main(String args[])
     {
