@@ -1,5 +1,5 @@
 import java.io.*;
-class fordemo
+class Fordemo
 {
     public static void main(String args[])
     {
